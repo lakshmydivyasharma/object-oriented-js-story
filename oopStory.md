@@ -9,22 +9,22 @@
 
 ## There is a clean way to implement our code when referencing objects
 
-## ## ## In this case let's use our fruit(object) analogy.
+## In this case let's use our fruit(object) analogy.
 
 ## There are four pillars in object - oriented JavaScript: encapsulation, abstraction, inheritance and polymorphism. Let's look at these four terms in terms of things Alfred would do at Walmart.
 
 
-##Encapsulation achieves the concept of data hiding, providing security to data, by making the variable as private, and expose the property to access the private data which would be public. Alfred decides he is bored of  looking at fruit and he heads over to the mini aquarium section at Walmart. The fish are encapsulated in the fish tanks. The fish are also grouped together by similar characteristics. So goldfish are in the same tank just like catfish are grouped together, and blowfish are together. Alfred wants to touch the fish, but he is unable to because the glass barrier blocks his hands and the fishes are protected.
+## Encapsulation achieves the concept of data hiding, providing security to data, by making the variable as private, and expose the property to access the private data which would be public. Alfred decides he is bored of  looking at fruit and he heads over to the mini aquarium section at Walmart. The fish are encapsulated in the fish tanks. The fish are also grouped together by similar characteristics. So goldfish are in the same tank just like catfish are grouped together, and blowfish are together. Alfred wants to touch the fish, but he is unable to because the glass barrier blocks his hands and the fishes are protected.
 
-## ## Alfred decides he is bored of the fish since he can’t physically touch them. He walks back to the produce section. Abstraction is taking data and grouping them together and writing it into a real life model and a great way to do this is through classes. So when Alfred classifies his produce into fruits and vegetables and then places fruits into dehiscent vs indehiscent types, he’s abstracting attributes and grouping similar characteristics.
+## Alfred decides he is bored of the fish since he can’t physically touch them. He walks back to the produce section. Abstraction is taking data and grouping them together and writing it into a real life model and a great way to do this is through classes. So when Alfred classifies his produce into fruits and vegetables and then places fruits into dehiscent vs indehiscent types, he’s abstracting attributes and grouping similar characteristics.
 
-## ## Inheritance is enabling new objects to take on the properties of existing objects. Alfred notices that the GMO fruit are able to take on characteristics of the organic fruit thus being able to be classified the same way.
+## Inheritance is enabling new objects to take on the properties of existing objects. Alfred notices that the GMO fruit are able to take on characteristics of the organic fruit thus being able to be classified the same way.
 
-## ## Polymorphism is the final pilar. It provides an ability to call the same method (function) on different JavaScript objects. Even though the zombie apocalypse occured, Alfred feels a moral obligation to pay for his produce. He goes to the self-checkout and wants to purchase his fuji apple. He didn’t know the serial number for it, so he hits “look up item” and then hits “produce.” Here all the produce displays in alphabetical order. This is an example of calling a function; every possible product is shown.
+## Polymorphism is the final pilar. It provides an ability to call the same method (function) on different JavaScript objects. Even though the zombie apocalypse occured, Alfred feels a moral obligation to pay for his produce. He goes to the self-checkout and wants to purchase his fuji apple. He didn’t know the serial number for it, so he hits “look up item” and then hits “produce.” Here all the produce displays in alphabetical order. This is an example of calling a function; every possible product is shown.
 
-## ## Constructor Functions are functions that hold properties for prototypes. For instance, since there are many aisles in Walmart, we would create a constructor function that has the properties of items that we want.
+## Constructor Functions are functions that hold properties for prototypes. For instance, since there are many aisles in Walmart, we would create a constructor function that has the properties of items that we want.
 
-## ## Global object is an object that always exists in the global scope. When Alfred goes to checkout his Bananas, the scanner categorizes it as produce. The global object is the cash register since it can scan any object within Walmart and categorize it. The computer already has an algorithm coded to be able to calculate the sum of the price, sales tax, and any discounts; this is known as method. This equation is the exact same but can be applied to the checking out process at Walmart. If Alfred were to check out 3 items or 8 items - the machine will still produce the final amount owed.
+## Global object is an object that always exists in the global scope. When Alfred goes to checkout his Bananas, the scanner categorizes it as produce. The global object is the cash register since it can scan any object within Walmart and categorize it. The computer already has an algorithm coded to be able to calculate the sum of the price, sales tax, and any discounts; this is known as method. This equation is the exact same but can be applied to the checking out process at Walmart. If Alfred were to check out 3 items or 8 items - the machine will still produce the final amount owed.
 
 ## The function signature consists of the method name and the number of arguments the function required. The parameters of a function don't need to be declared within the body of the function because they are already declared inside the function header. When Alfred scans his foot cream, he doesn’t need to type in how much it costs, the machine already holds that information and the scanned barcode calls that information to display on the screen.
 
@@ -70,21 +70,20 @@
 
 
 
-#Four Pillars
+# Four Pillars
 
-##Abstraction
+## Abstraction
 ### The Data or Hiding of Information
 ### creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for our program's purposes.
-###
-##Encapsulation
+## Encapsulation
 ### Binding of Data and Functions (that manipulate the data) together and keep both safes from outside interference and misuse is called Encapsulation.
 ### Data can be grouped together with functionality that operates on that data; also the definition of an object
 
-##Inheritance
+## Inheritance
 ### Enables new objects to take on the properties of existing objects.
 ### When an object instance is created from a class, the class's constructor function is run to create it. This process of creating an object instance from a class is called instantiation — the object instance is instantiated from the class.
 
-##Polymorphism.
+## Polymorphism.
 ### It is the ability to redefine methods for derived classes. or we can say that objects that can behave in different forms are called Polymorphism.
 ### Classes within classes
 ### Provides a way to perform a single action in different forms.
