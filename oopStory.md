@@ -1,3 +1,6 @@
+# Writers: House Hayden
+## Divya Sharma; Calvin Benson; Orson Saint Fleur; Victor Tran; Aiperi Abdimalikova
+
 # objectOrientedJavaScriptStory
 
 ## The zombie apocalypse just happened. Alfred is stuck without any survival tools and he pulls into a Walmart parking lot. He doesn’t have any zombie survival tools and is excited to see what Walmart has to offer. Walmart is a store that contains everything in it (all objects), therefore, making it the parent object. An object contains a group of information. At Walmart (parent object) it holds many objects which are the sections in the store like food, medicine, clothing, and weapons.
