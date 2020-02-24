@@ -44,8 +44,8 @@
 ## Used to make code dry
 ## Follows prototype-based model opposed to classes
 ## Global based -- can put it wherever you want vs just putting it one spot
-## Writing computer programs that are using the idea of "objects" to represent data and methods. Usually, computer programs were just a list of instructions to the ## computer, telling the computer to do certain things in a certain way, which is called procedural programming.
-## The basic idea of OOP is that we use objects to model real-world things that we want to represent inside our programs, and/or provide a simple way to access ## functionality that would otherwise be hard or impossible to make use of.
+## Writing computer programs that are using the idea of "objects" to represent data and methods. Usually, computer programs were just a list of instructions to the computer, telling the computer to do certain things in a certain way, which is called procedural programming.
+## The basic idea of OOP is that we use objects to model real-world things that we want to represent inside our programs, and/or provide a simple way to access functionality that would otherwise be hard or impossible to make use of.
 
 
 
@@ -65,7 +65,7 @@
 ##### Used for literal values
 ##### This is known as an abstraction — creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for our program's purposes.
 
-####Arrays
+#### Arrays
 ##### Collections of data / variables
 
 
