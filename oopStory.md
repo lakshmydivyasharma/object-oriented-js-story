@@ -1,5 +1,5 @@
 # Writers: House Hayden
-## Divya Sharma; Calvin Benson; Orson Saint Fleur; Victor Tran; Aiperi Abdimalikova
+## Divya Sharma; Calvin Benson; Orson Saint Fleur; Victor Tran; Aiperi Abdimalikova; Angelica Bethea;
 
 # objectOrientedJavaScriptStory
 
